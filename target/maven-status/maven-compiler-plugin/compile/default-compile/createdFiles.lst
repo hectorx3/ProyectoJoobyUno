@@ -1,0 +1,8 @@
+com\mycompany\proyectojoobyuno\app\dao\Usuario.class
+com\mycompany\proyectojoobyuno\core\MyPoolConnection.class
+com\mycompany\proyectojoobyuno\app\model\Response.class
+com\mycompany\proyectojoobyuno\App.class
+com\mycompany\proyectojoobyuno\core\MyServletContextListener.class
+com\mycompany\proyectojoobyuno\app\controller\UsuarioController.class
+com\mycompany\proyectojoobyuno\app\service\UsuarioService.class
+com\mycompany\proyectojoobyuno\app\model\Usuario.class
